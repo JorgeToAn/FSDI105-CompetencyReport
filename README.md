@@ -1,2 +1,2 @@
-# FSDI105-CompetencyReport
-This project presents a user registration system, by using local storage you can create new users, who are validated, sign into your account and display other users in a table.
+# FSDI105-UserSystem
+This project presents a user registration system, which includes a home page, log in and sign up page, the project will be using jQuery.
